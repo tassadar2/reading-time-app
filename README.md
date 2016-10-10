@@ -1,4 +1,4 @@
-# reading-time-app
+# writing-time-app
 The reading-time-app is a demo web application using Java and [Maven](https://maven.apache.org/). It lists staff recommended books.
 ## Installing And Running On a Local Machine
 To install and run the `reading-time-demo` application on your local machine execute the following commands:
