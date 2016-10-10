@@ -11,6 +11,8 @@ public class Book {
 
     private String cover;
 
+    private int hi;
+
     public Book() {
 
     }
